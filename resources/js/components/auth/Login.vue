@@ -22,8 +22,8 @@
 export default {
   data:()=>({
     user:{
-      email:'santosraj38@gmail.com',
-      password:'password',
+      email:'',
+      password:'',
     },
     errors:{
       email_error:'',
